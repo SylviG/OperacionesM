@@ -17,6 +17,16 @@ public class desarrollocurichumbi {
         //Bien Panata
 
 // Vega bn
+        
+        
+        
+        
+        
+        
+        
+        
+        
+         //bueno este proyecto se termino
 
     }
     
