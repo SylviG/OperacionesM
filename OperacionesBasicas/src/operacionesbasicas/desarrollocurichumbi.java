@@ -14,6 +14,7 @@ public class desarrollocurichumbi {
     public void oscar(){
         System.out.println("hola como estan ");
         System.out.println("Ramos bien ");
+        //Bien Panata
     }
     
 }
