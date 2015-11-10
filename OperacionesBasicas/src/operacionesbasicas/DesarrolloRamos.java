@@ -9,8 +9,10 @@ package operacionesbasicas;
  *
  * @author PC 10
  */
-public class hola {
-     public static void main(String[] args) {
-    System.out.println("hola silvia");
+public class DesarrolloRamos {
+    public static void main(String[] args) {
+        //Hola como estan?
+        System.out.println("Hola como estan?");
+    }
     
-}}
+}
